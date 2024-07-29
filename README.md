@@ -1,0 +1,2 @@
+# Git Message Splitter
+A small program that checks if the line doesn't exceed 73 symbols and wraps to the next line if it does. A pattern that requires this condition to the git message taken from the [Tim Pope's blog](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html). Made the program for myself.
